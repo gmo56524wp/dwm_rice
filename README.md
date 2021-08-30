@@ -2,7 +2,7 @@
 
 # install
 ```{sh}
-sudo make clean install
+sudo make install
 ```
 
 # uninstall
